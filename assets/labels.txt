@@ -1,0 +1,7 @@
+ five
+ ten
+ twenty
+ fifty
+ hundred
+ fivehundred
+ thousand
