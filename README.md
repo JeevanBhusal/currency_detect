@@ -1,4 +1,4 @@
-#nepali currency detect
+# Nepali Currency Detection
 
 A new Flutter project.
 
